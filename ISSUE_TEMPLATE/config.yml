@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Open issues on the main repository
+    url: https://github.com/phaemos/phaemos/issues/new/choose
+    about: Every PHAEMOS component is developed in phaemos/phaemos. Please open issues there.
+  - name: Platform status
+    url: https://status.phaemos.com
+    about: Check here first during an outage.
+  - name: Questions and discussion
+    url: https://github.com/phaemos/phaemos/discussions
+    about: Setup questions, usage questions and feature ideas.
+  - name: Report a vulnerability
+    url: https://github.com/phaemos/phaemos/security/advisories/new
+    about: Report security issues privately, never in a public issue.
