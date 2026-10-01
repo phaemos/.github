@@ -12,5 +12,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+- The organisation profile adds a roadmap table linking the four milestones, a tech stack line and the CERN-OHL-S hardware licence. Get involved now starts with the welcome and roadmap discussions.
+- `README.md` names AGPL-3.0-or-later and points to the monorepo `NOTICE.md` for the hardware licence.
 - The organisation profile opens with the PHAEMOS logo, which switches between its light and dark versions with the viewer's theme. A note gives the current phase and a Get involved section lists every way in.
 - Links to phaemos.com, the status page and the documentation site are gone from the profile, `SUPPORT.md` and the new issue page, since those sites go live with the Launch milestone. The new issue page links the roadmap board instead.
+
+### Fixed
+
+- `CODE_OF_CONDUCT.md` linked a contact page on phaemos.com, which is not live yet. Reports now go to the contact address alone.

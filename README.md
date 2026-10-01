@@ -17,4 +17,4 @@ GitHub uses these files for any repository in the organisation that does not hav
 
 ## Licence
 
-GNU Affero General Public License v3.0, see [LICENSE](LICENSE).
+GNU Affero General Public License v3.0 or later, see [LICENSE](LICENSE). Hardware designs in the monorepo use the CERN Open Hardware Licence v2, Strongly Reciprocal, as its [NOTICE.md](https://github.com/phaemos/phaemos/blob/main/NOTICE.md) explains.

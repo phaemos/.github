@@ -11,4 +11,4 @@ Harassment, abuse or personal attacks of any kind. Spam or off-topic promotion. 
 ## Enforcement
 
 > [!NOTE]
-> Report unacceptable behaviour to contact@phaemos.com or through [phaemos.com/contact](https://phaemos.com/contact). Reports are reviewed and appropriate action is taken, including removing content or blocking users where necessary.
+> Report unacceptable behaviour to [contact@phaemos.com](mailto:contact@phaemos.com). Reports are reviewed and appropriate action is taken, including removing content or blocking users where necessary.
