@@ -15,7 +15,22 @@
 
 Machines rarely fail without warning. Bearings wear, motors run hot and vibration creeps up for weeks before a breakdown. Condition monitoring catches that drift, but commercial systems are priced for large plants and tied to one vendor's sensors and cloud.
 
-PHAEMOS brings the same idea to any workshop, lab or small site: low-cost microcontroller nodes on the machine, a model that learns what normal looks like for that machine and an open stack you host yourself. The name is pronounced FAY-mos and means "an ordered system that reveals".
+PHAEMOS brings the same idea to any workshop, lab or small site: low-cost microcontroller nodes on the machine, a model that learns what normal looks like for that machine and an open stack you host yourself.
+
+## The name
+
+Machines fail. Not suddenly but gradually, silently and invisibly. PHAEMOS exists to reveal what machines cannot say about themselves.
+
+The name, pronounced FAY-mos, is coined from two Ancient Greek roots:
+
+| Part | Root | Meaning |
+| --- | --- | --- |
+| PHAE- | *phaen-* (φαιν-), as in *phaínein* | to reveal, to bring to light, the root behind *phenomenon* |
+| -MOS | *-mos*, as in *kósmos* (κόσμος) | system or order |
+
+Together they mean "an ordered system that reveals". The platform learns the normal order of each machine and reveals the readings that break it before they become a failure, which is where the tagline comes from: **reveal before failure**.
+
+PHAEMOS has a sister project, [MELOPHOS](https://github.com/melophos), named the same way. Its *phos* (φῶς, light) and the *phaen-* in PHAEMOS go back to the same ancient root, meaning "to shine".
 
 ## How it works
 
