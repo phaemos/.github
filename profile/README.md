@@ -42,9 +42,9 @@ flowchart LR
     ESP -- HTTPS --> API["FastAPI backend<br/>Isolation Forest scoring"]
     PICO["Pico 2W<br/>ambient node"] -- HTTPS --> API
     EDGE -- HTTPS --> API
-    API --> DB[("PostgreSQL<br/>and Redis")]
+    API --> DB[("PostgreSQL")]
     API -- WebSocket --> DASH["Next.js dashboard"]
-    API --> OUT["Alerts, tickets, webhooks,<br/>email and SMS"]
+    API --> OUT["Alerts, webhooks, Discord,<br/>email and SMS"]
 ```
 
 Each node streams its readings to the API, which stores them and scores every reading against the machine's normal behaviour. A reading that drifts raises an alert, which can become a maintenance ticket. The full picture is in [docs/architecture.md](https://github.com/phaemos/phaemos/blob/main/docs/architecture.md).
@@ -53,7 +53,7 @@ Each node streams its readings to the API, which stores them and scores every re
 
 - **Four sensor nodes.** An ESP32 gateway with 11 sensors, an STM32 running a vibration FFT at 100 Hz, an Arduino Nano and a Raspberry Pi Pico 2W cover temperature, vibration, current, gas, sound, distance and shaft speed.
 - **Anomaly detection without fault data.** An Isolation Forest learns each machine's normal behaviour and scores readings as they arrive, so no labelled failures are needed to start.
-- **Operations built in.** Alert rules, maintenance windows, tickets, webhooks to Slack, Discord and Teams, email and SMS, tamper-evident audit logs and role-based access with two-factor sign-in.
+- **Operations built in.** Alert rules, maintenance windows, tickets, webhooks to Slack, Discord and Teams, email and SMS, an audit log of every change and role-based access with optional two-factor enrolment.
 - **Resilient at the edge.** A Rust gateway spools every reading to disk during a network outage and sends it on in order once the link returns.
 - **Built to be built on.** A Python SDK, a simulator with injectable faults and a Go CLI for load testing.
 - **Open hardware and software.** CERN-OHL-S hardware designs, AGPL code and a Docker Compose stack you run yourself.
@@ -120,7 +120,7 @@ Each node streams its readings to the API, which stores them and scores every re
 | Data | PostgreSQL and Redis |
 | Dashboard | TypeScript, Next.js and Tailwind CSS |
 | Developer tools | Python SDK and simulator, Go CLI (`phaemosctl`) |
-| Hardware | Proteus and KiCad schematics and PCB layouts, depending on the node |
+| Hardware | Proteus for circuit simulation, KiCad for schematics and PCB layouts |
 | Infrastructure | Docker Compose, Prometheus and Grafana |
 
 ## Repositories

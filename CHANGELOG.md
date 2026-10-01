@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+- The profile's hardware row names Proteus for circuit simulation and KiCad for schematics and PCB layouts. The diagram and the operations line match the platform as built.
 - The profile names KiCad beside Proteus for the hardware design, since the nodes use one or the other.
 - The profile's Built with icons are now categorised tables with each name under its icon: animated icons where they exist and matching static logos elsewhere.
 - The profile's Built with section opens with a row of static technology icons that follows the viewer's light or dark theme.
