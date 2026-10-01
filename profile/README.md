@@ -72,12 +72,45 @@ Each node streams its readings to the API, which stores them and scores every re
 
 ## Built with
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,sklearn,ts,nextjs,tailwind,rust,go,cpp,arduino,raspberrypi,postgres,redis,docker,grafana&theme=dark">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn,ts,nextjs,tailwind,rust,go,cpp,arduino,raspberrypi,postgres,redis,docker,grafana&theme=light" alt="Python, FastAPI, scikit-learn, TypeScript, Next.js, Tailwind CSS, Rust, Go, C++, Arduino, Raspberry Pi, PostgreSQL, Redis, Docker and Grafana">
-  </picture>
-</p>
+<div align="center">
+
+### Languages
+
+| <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60"> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60"> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60"> | <img src="https://cdn.simpleicons.org/rust/000000/ffffff" alt="Rust" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="60"> | <img src="https://cdn.simpleicons.org/micropython/2B2728/ffffff" alt="MicroPython" width="60"> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Python** | **TypeScript** | **C++** | **Rust** | **Go** | **MicroPython** |
+
+### Backend and data
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="60"> |
+| :---: | :---: | :---: | :---: | :---: |
+| **FastAPI** | **SQLAlchemy** | **scikit-learn** | **PostgreSQL** | **Redis** |
+
+### Dashboard
+
+| <img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff" alt="Next.js" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60"> |
+| :---: | :---: |
+| **Next.js** | **Tailwind CSS** |
+
+### Sensor nodes
+
+| <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="60"> | <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B/ffffff" alt="STM32" width="60"> | <img src="https://cdn.simpleicons.org/arm/0091BD" alt="CMSIS-DSP" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60"> | <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="60"> |
+| :---: | :---: | :---: | :---: | :---: |
+| **ESP32** | **STM32** | **CMSIS-DSP** | **Arduino** | **Raspberry Pi** |
+
+### Hardware design
+
+| <img src="https://www.labcenter.com/images/apple-touch-icon.png" alt="Proteus" width="60"> |
+| :---: |
+| **Proteus** |
+
+### Infrastructure
+
+| <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="60"> |
+| :---: | :---: | :---: |
+| **Docker** | **Prometheus** | **Grafana** |
+
+</div>
 
 | Layer | Stack |
 | --- | --- |
