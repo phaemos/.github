@@ -100,9 +100,9 @@ Each node streams its readings to the API, which stores them and scores every re
 
 ### Hardware design
 
-| <img src="https://www.labcenter.com/images/apple-touch-icon.png" alt="Proteus" width="60"> |
-| :---: |
-| **Proteus** |
+| <img src="https://www.labcenter.com/images/apple-touch-icon.png" alt="Proteus" width="60"> | <img src="https://cdn.simpleicons.org/kicad/314CB0" alt="KiCad" width="60"> |
+| :---: | :---: |
+| **Proteus** | **KiCad** |
 
 ### Infrastructure
 
@@ -120,7 +120,7 @@ Each node streams its readings to the API, which stores them and scores every re
 | Data | PostgreSQL and Redis |
 | Dashboard | TypeScript, Next.js and Tailwind CSS |
 | Developer tools | Python SDK and simulator, Go CLI (`phaemosctl`) |
-| Hardware | Proteus schematics and PCB layouts |
+| Hardware | Proteus and KiCad schematics and PCB layouts, depending on the node |
 | Infrastructure | Docker Compose, Prometheus and Grafana |
 
 ## Repositories
