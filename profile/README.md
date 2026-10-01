@@ -94,9 +94,15 @@ Each node streams its readings to the API, which stores them and scores every re
 
 ### Sensor nodes
 
-| <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="60"> | <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B/ffffff" alt="STM32" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60"> | <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="60"> |
-| :---: | :---: | :---: | :---: |
-| **ESP32** | **STM32** | **Arduino** | **Raspberry Pi** |
+| <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="60"> | <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B/ffffff" alt="STM32" width="60"> | <img src="https://cdn.simpleicons.org/arm/0091BD" alt="CMSIS-DSP" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60"> | <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="60"> |
+| :---: | :---: | :---: | :---: | :---: |
+| **ESP32** | **STM32** | **CMSIS-DSP** | **Arduino** | **Raspberry Pi** |
+
+### Hardware design
+
+| <img src="https://www.labcenter.com/images/apple-touch-icon.png" alt="Proteus" width="60"> |
+| :---: |
+| **Proteus** |
 
 ### Infrastructure
 
