@@ -72,6 +72,13 @@ Each node streams its readings to the API, which stores them and scores every re
 
 ## Built with
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,sklearn,ts,nextjs,tailwind,rust,go,cpp,arduino,raspberrypi,postgres,redis,docker,grafana&theme=dark">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn,ts,nextjs,tailwind,rust,go,cpp,arduino,raspberrypi,postgres,redis,docker,grafana&theme=light" alt="Python, FastAPI, scikit-learn, TypeScript, Next.js, Tailwind CSS, Rust, Go, C++, Arduino, Raspberry Pi, PostgreSQL, Redis, Docker and Grafana">
+  </picture>
+</p>
+
 | Layer | Stack |
 | --- | --- |
 | Sensor nodes | C and C++ on the ESP32, STM32 (CMSIS-DSP) and Arduino Nano, MicroPython on the Pico 2W |
