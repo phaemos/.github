@@ -5,6 +5,7 @@ Organisation-wide files for [PHAEMOS](https://github.com/phaemos/phaemos).
 | File | Purpose |
 | --- | --- |
 | [`profile/README.md`](profile/README.md) | The organisation profile shown on [github.com/phaemos](https://github.com/phaemos) |
+| [`AI_POLICY.md`](AI_POLICY.md) | How AI may and may not be used in contributions to every repository |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Default code of conduct for every repository without its own |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Default contributing guide, pointing to the monorepo |
 | [`SECURITY.md`](SECURITY.md) | Default security policy |

@@ -13,6 +13,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+- `AI_POLICY.md`, linked from the README and SUPPORT.md.
+- Community files follow the [AI policy](https://github.com/phaemos/.github/blob/main/AI_POLICY.md): pull requests declare AI use and issue forms ask whether AI helped. Security reports go to security@phaemos.com.
 - The profile's hardware row names Proteus for circuit simulation and KiCad for schematics and PCB layouts. The diagram and the operations line match the platform as built.
 - The profile names KiCad beside Proteus for the hardware design, since the nodes use one or the other.
 - The profile's Built with icons are now categorised tables with each name under its icon: animated icons where they exist and matching static logos elsewhere.

@@ -5,4 +5,4 @@ PHAEMOS handles telemetry from industrial equipment, device API keys and user ac
 ## Reporting a vulnerability
 
 > [!IMPORTANT]
-> Report privately, never in a public issue. Use [GitHub private vulnerability reporting](https://github.com/phaemos/phaemos/security/advisories/new) or email dev@phaemos.com with details and reproduction steps. Expect a response within 72 hours.
+> Report privately, never in a public issue. Use [GitHub private vulnerability reporting](https://github.com/phaemos/phaemos/security/advisories/new) or email security@phaemos.com with details and reproduction steps. Expect a response within 72 hours.

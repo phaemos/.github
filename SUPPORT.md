@@ -2,6 +2,7 @@
 
 - **Questions and ideas:** [GitHub Discussions](https://github.com/phaemos/phaemos/discussions) on the monorepo
 - **Bugs:** [issues on phaemos/phaemos](https://github.com/phaemos/phaemos/issues/new/choose)
+- **Using AI in a contribution:** read the [AI policy](https://github.com/phaemos/.github/blob/main/AI_POLICY.md) first
 - **Security vulnerabilities:** follow [SECURITY.md](SECURITY.md), never a public issue
 - **General enquiries:** [contact@phaemos.com](mailto:contact@phaemos.com)
 - **User support:** [support@phaemos.com](mailto:support@phaemos.com)
