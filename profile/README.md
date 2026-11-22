@@ -100,7 +100,7 @@ Each node streams its readings to the API, which stores them and scores every re
 
 ### Hardware design
 
-| <img src="https://www.labcenter.com/images/apple-touch-icon.png" alt="Proteus" width="60"> | <img src="https://cdn.simpleicons.org/kicad/314CB0" alt="KiCad" width="60"> |
+| <img src="https://raw.githubusercontent.com/phaemos/.github/main/profile/assets/proteus.png" alt="Proteus" width="60"> | <img src="https://cdn.simpleicons.org/kicad/314CB0" alt="KiCad" width="60"> |
 | :---: | :---: |
 | **Proteus** | **KiCad** |
 
