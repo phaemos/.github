@@ -76,7 +76,7 @@ Each node streams its readings to the API, which stores them and scores every re
 
 ### Languages
 
-| <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60"> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60"> | <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60"> | <img src="https://cdn.simpleicons.org/rust/000000/ffffff" alt="Rust" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="60"> | <img src="https://cdn.simpleicons.org/micropython/2B2728/ffffff" alt="MicroPython" width="60"> |
+| <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@1a8656741692dfe08effc82600f4d0d4bb87d420/static/python-icon.svg" alt="Python" width="60"> | <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@1a8656741692dfe08effc82600f4d0d4bb87d420/static/ts-icon.svg" alt="TypeScript" width="60"> | <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@1a8656741692dfe08effc82600f4d0d4bb87d420/static/cpp-icon.svg" alt="C++" width="60"> | <img src="https://cdn.simpleicons.org/rust/000000/ffffff" alt="Rust" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="60"> | <img src="https://cdn.simpleicons.org/micropython/2B2728/ffffff" alt="MicroPython" width="60"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Python** | **TypeScript** | **C++** | **Rust** | **Go** | **MicroPython** |
 
@@ -94,7 +94,7 @@ Each node streams its readings to the API, which stores them and scores every re
 
 ### Sensor nodes
 
-| <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="60"> | <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B/ffffff" alt="STM32" width="60"> | <img src="https://cdn.simpleicons.org/arm/0091BD" alt="CMSIS-DSP" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60"> | <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="60"> |
+| <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="60"> | <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B/ffffff" alt="STM32" width="60"> | <img src="https://cdn.simpleicons.org/arm/0091BD" alt="CMSIS-DSP" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60"> | <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@1a8656741692dfe08effc82600f4d0d4bb87d420/static/raspberrypi-icon.svg" alt="Raspberry Pi" width="60"> |
 | :---: | :---: | :---: | :---: | :---: |
 | **ESP32** | **STM32** | **CMSIS-DSP** | **Arduino** | **Raspberry Pi** |
 
@@ -106,7 +106,7 @@ Each node streams its readings to the API, which stores them and scores every re
 
 ### Infrastructure
 
-| <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="60"> |
+| <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@1a8656741692dfe08effc82600f4d0d4bb87d420/static/docker-icon.svg" alt="Docker" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="60"> |
 | :---: | :---: | :---: |
 | **Docker** | **Prometheus** | **Grafana** |
 
